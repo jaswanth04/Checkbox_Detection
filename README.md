@@ -26,7 +26,7 @@ After Alignment, in order to extract the marked checkboxes, we do the following:
   d. Use Hough Lines, to remove more lines
   e. The mark might be present now, If the non - black count is greater than a threshold, then this ROI is considered as marked, else, it is not considered to be marked
 
-The above methodology can be found in notebooks/data_extraction.ipynb
+The above methodology can be found [here](https://github.com/jaswanth04/Checkbox_Detection/blob/main/notebooks/data_extraction.ipynb)
 
 ## Usage
 
@@ -36,7 +36,7 @@ The only required packages for this to work is numpy, opencv. If opencv is insta
 pip install opencv-python
 ```
 
-The test data is given in the repo, which can be used. 
+The [test data](https://github.com/jaswanth04/Checkbox_Detection/tree/main/test_data) is given in the repo, which can be used. 
 
 ```
 python src/extract.py --query test_data/image_snap_1660127120112.jpeg --template test_data/TRF-1.png --roi test_data/TRF-1_annotation.json
