@@ -1,0 +1,12 @@
+data/
+data_1/
+roi_data/
+templates/
+
+__pycache__
+*/__pycache__
+
+.vscode/
+
+*/.ipynb_checkpoints
+

@@ -1,0 +1,916 @@
+{
+  "data": {
+    "filename": "TRF.png",
+    "size": 302480,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 81,
+          "y": 371,
+          "width": 66,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "A1",
+          "type": "Antenatal Test - Basic",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 84,
+          "y": 756,
+          "width": 61,
+          "height": 61
+        },
+        "region_attributes": {
+          "name": "A2",
+          "type": "Antenatal Test - Regular",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 88,
+          "y": 984,
+          "width": 56,
+          "height": 60
+        },
+        "region_attributes": {
+          "name": "A3",
+          "type": "Polycystic Ovary Syndrome",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 85,
+          "y": 1410,
+          "width": 58,
+          "height": 58
+        },
+        "region_attributes": {
+          "name": "A4",
+          "type": "AMH Plus",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 84,
+          "y": 1931,
+          "width": 62,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "A5",
+          "type": "Lipid Profile",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 608,
+          "y": 375,
+          "width": 60,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "A6",
+          "type": "BOH ",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 608,
+          "y": 464,
+          "width": 58,
+          "height": 56
+        },
+        "region_attributes": {
+          "name": "A7",
+          "type": "BOH without LA",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 606,
+          "y": 951,
+          "width": 60,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "A8",
+          "type": "Recurrent Pregnancy Loss (RPL without KT)",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 605,
+          "y": 1070,
+          "width": 61,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "A9",
+          "type": "Recurrent Pregnancy Loss (RPL without KT) without LA/APTT",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 605,
+          "y": 1554,
+          "width": 61,
+          "height": 61
+        },
+        "region_attributes": {
+          "name": "A10",
+          "type": "Recurrent Pregnancy Loss (RPL with KT)",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 606,
+          "y": 1679,
+          "width": 61,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "A11",
+          "type": "CBC, Blood grouping",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 605,
+          "y": 1923,
+          "width": 62,
+          "height": 56
+        },
+        "region_attributes": {
+          "name": "A12",
+          "type": "LFT",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 374,
+          "width": 58,
+          "height": 56
+        },
+        "region_attributes": {
+          "name": "A13",
+          "type": "RFT",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1127,
+          "y": 604,
+          "width": 61,
+          "height": 62
+        },
+        "region_attributes": {
+          "name": "A14",
+          "type": "Cervical Screening",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1127,
+          "y": 838,
+          "width": 61,
+          "height": 58
+        },
+        "region_attributes": {
+          "name": "A15",
+          "type": "Misceullaneous",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1130,
+          "y": 927,
+          "width": 57,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "A16",
+          "type": "Hemoglobinopathies",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 988,
+          "width": 57,
+          "height": 56
+        },
+        "region_attributes": {
+          "name": "A17",
+          "type": "Serum Vitamin B12",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 1051,
+          "width": 56,
+          "height": 52
+        },
+        "region_attributes": {
+          "name": "A18",
+          "type": "25 Hydroxy Vitamin D ",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 1110,
+          "width": 58,
+          "height": 53
+        },
+        "region_attributes": {
+          "name": "A19",
+          "type": "Glucose",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 1169,
+          "width": 57,
+          "height": 53
+        },
+        "region_attributes": {
+          "name": "A20",
+          "type": "TORCH - PCR",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1130,
+          "y": 1228,
+          "width": 57,
+          "height": 58
+        },
+        "region_attributes": {
+          "name": "A21",
+          "type": "HCV - PCR",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 1326,
+          "width": 58,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "A22",
+          "type": "APLA-TOTAL",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 1430,
+          "width": 58,
+          "height": 60
+        },
+        "region_attributes": {
+          "name": "A23",
+          "type": "TB-PCR",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 1537,
+          "width": 61,
+          "height": 58
+        },
+        "region_attributes": {
+          "name": "A24",
+          "type": "Pap Smear",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1130,
+          "y": 1642,
+          "width": 60,
+          "height": 62
+        },
+        "region_attributes": {
+          "name": "A25",
+          "type": "HPV DNA",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": { "caption": "", "public_domain": "no", "image_url": "" }
+  },
+  "TRF-1.png275578": {
+    "filename": "TRF-1.png",
+    "size": 275578,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 85,
+          "y": 370,
+          "width": 58,
+          "height": 60
+        },
+        "region_attributes": {
+          "name": "AS1",
+          "type": "Antenatal Test - Basic",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 83,
+          "y": 756,
+          "width": 64,
+          "height": 60
+        },
+        "region_attributes": {
+          "name": "AS2",
+          "type": "Antenatal Test - Regular",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 83,
+          "y": 986,
+          "width": 61,
+          "height": 60
+        },
+        "region_attributes": {
+          "name": "AS3",
+          "type": "Poly",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 81,
+          "y": 1413,
+          "width": 62,
+          "height": 55
+        },
+        "region_attributes": {
+          "name": "AS4",
+          "type": "AMH Plus",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 81,
+          "y": 1927,
+          "width": 64,
+          "height": 62
+        },
+        "region_attributes": {
+          "name": "AS5",
+          "type": "Lipid Profile",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 605,
+          "y": 375,
+          "width": 60,
+          "height": 56
+        },
+        "region_attributes": {
+          "name": "AS6",
+          "type": "BOH",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 608,
+          "y": 463,
+          "width": 58,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "AS7",
+          "type": "BOH without LA",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 604,
+          "y": 948,
+          "width": 64,
+          "height": 61
+        },
+        "region_attributes": {
+          "name": "AS8",
+          "type": "Recurrent  Pregnancy Loss (RPL without KT)",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 605,
+          "y": 1070,
+          "width": 62,
+          "height": 58
+        },
+        "region_attributes": {
+          "name": "AS9",
+          "type": "Recurrent Pregnancy Loss (RPL without KT) without LA/APTT",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 606,
+          "y": 1557,
+          "width": 60,
+          "height": 58
+        },
+        "region_attributes": {
+          "name": "AS10",
+          "type": "Recurrent Pregnancy Loss (RPL with KT)",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 608,
+          "y": 1678,
+          "width": 60,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "AS11",
+          "type": "CBC, ",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 608,
+          "y": 1921,
+          "width": 61,
+          "height": 61
+        },
+        "region_attributes": {
+          "name": "AS12",
+          "type": "LFT",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 371,
+          "width": 57,
+          "height": 58
+        },
+        "region_attributes": {
+          "name": "AS13",
+          "type": "RFT",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1127,
+          "y": 601,
+          "width": 61,
+          "height": 62
+        },
+        "region_attributes": {
+          "name": "AS14",
+          "type": "Cervical Screening",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1130,
+          "y": 836,
+          "width": 56,
+          "height": 58
+        },
+        "region_attributes": {
+          "name": "AS15",
+          "type": "Misceullaneous",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1126,
+          "y": 927,
+          "width": 62,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "AS16",
+          "type": "Hemoglobinopathies",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1130,
+          "y": 989,
+          "width": 56,
+          "height": 55
+        },
+        "region_attributes": {
+          "name": "AS17",
+          "type": "Serum Vitamin B12",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1131,
+          "y": 1049,
+          "width": 55,
+          "height": 53
+        },
+        "region_attributes": {
+          "name": "AS18",
+          "type": "25 Hydroxy Vitamin D",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1130,
+          "y": 1110,
+          "width": 56,
+          "height": 53
+        },
+        "region_attributes": {
+          "name": "AS19",
+          "type": "Glucose",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 1168,
+          "width": 57,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "AS20",
+          "type": "TORCH - PCR",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 1229,
+          "width": 58,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "AS21",
+          "type": "HbA1C",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1129,
+          "y": 1324,
+          "width": 58,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "AS22",
+          "type": "APLA-TOTAL",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1130,
+          "y": 1430,
+          "width": 57,
+          "height": 61
+        },
+        "region_attributes": {
+          "name": "AS23",
+          "type": "TB-PCR",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1131,
+          "y": 1535,
+          "width": 53,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "AS24",
+          "type": "Pap Smear",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 1125,
+          "y": 1640,
+          "width": 66,
+          "height": 64
+        },
+        "region_attributes": {
+          "name": "AS25",
+          "type": "HPV DNA",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": { "caption": "", "public_domain": "no", "image_url": "" }
+  }
+}
